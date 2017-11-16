@@ -2,5 +2,10 @@
 <Timeline
    version = "3.0">
    <TimelineItems>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/jmidence/Desktop/Computer%20Studies/Bitmap_Image_Encoding/Bitmap%20Image%20Encoding.playground/Pages/Rendering%20the%20Simple%20Bitmap.xcplaygroundpage#CharacterRangeLen=13&amp;CharacterRangeLoc=763&amp;EndingColumnNumber=18&amp;EndingLineNumber=25&amp;StartingColumnNumber=5&amp;StartingLineNumber=25&amp;Timestamp=532542308.21595"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
    </TimelineItems>
 </Timeline>
