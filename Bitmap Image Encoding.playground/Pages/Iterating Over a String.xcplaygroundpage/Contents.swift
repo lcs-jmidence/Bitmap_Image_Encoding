@@ -32,7 +32,9 @@ for character in encodedBitmap {
     print(character)
 }
 
-// I notice that...
+// I notice that the syntax for the loop if different, it's for character in...
+// I also noticed that the loop runs a different number of times each time I run the playground
+//I can inspect/work with each individual character in the string because we told it to print the characters.
 /*:
  Now, **remember to commit and push your work**.
  */
